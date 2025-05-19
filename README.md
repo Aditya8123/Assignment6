@@ -29,41 +29,6 @@ DeepFakes pose a serious threat to digital media authenticity. This project eval
 - **ViT Performance:** Underperformed due to data limitations
 - **Ensemble Learning:** Minor improvement in prediction consistency
 
-## 📁 Repository Structure
-
-```
-
-├── images/                         # All diagrams and figures used in the paper
-│   ├── vgg16\_architecture.png
-│   ├── vit\_architecture.png
-│   ├── genconvit\_architecture.png
-│   ├── deepfake\_adapter\_architecture.png
-│   ├── sample\_faces.png
-│   ├── confusion\_cnn.png
-│   ├── confusion\_vit.png
-│   ├── accuracy\_bar.png
-│   └── metric\_comparison.png
-│
-├── DeepFake\_Detection.tex          # Main LaTeX source file
-├── README.md                       # Project overview (this file)
-└── references.bib (optional)       # BibTeX file for references (if separated)
-
-```
-
-## 🛠️ Dependencies
-
-To compile the LaTeX document, ensure you have the following packages installed:
-- `graphicx`
-- `amsmath`
-- `cite`
-- `caption`
-- `multirow`
-- `booktabs`
-- `hyperref`
-- `placeins` (optional but recommended)
-
-You can use a LaTeX distribution like **TeX Live**, **MiKTeX**, or an online editor like **Overleaf**.
-
 ## 📚 References
 
 The paper uses citations from:
